@@ -1,0 +1,11 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore build folder
+build/
+
+# Ignore specific file
+public/models.js
+
+# Ignore all JavaScript files inside a folder
+src/some-folder/*.js
